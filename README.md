@@ -8,17 +8,6 @@ by Diego Vallarino (2024)
 
 ---
 
-MoE-stock-forecasting/
-│
-├── MoE_stock_forecasting.py          # Código principal
-├── requirements.txt                  # Dependencias
-├── README.md                         # Instrucciones y documentación
-├── LICENSE                           # (opcional, te lo puedo generar)
-├── figures/                          # (opcional) gráficas y resultados
-└── examples/                         # (opcional) notebooks o ejemplos
-
----
-
 ## Overview
 
 This project implements a Mixture of Experts (MoE) architecture that dynamically combines a Recurrent Neural Network (RNN) and a Linear Regression model for stock price forecasting. The model is explicitly designed to adapt to heterogeneous volatility regimes observed across firms.
