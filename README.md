@@ -68,7 +68,7 @@ If you use this code or findings in academic work, please cite:
   author = {Vallarino, Diego},
   title = {Adaptive Market Intelligence: A Mixture of Experts Framework for Volatility-Sensitive Stock Forecasting},
   note = {SSRN Preprint},
-  year = {2024},
+  year = {2025},
   url = {https://github.com/DiegoVallarino/MoE-stock-forecasting}
 }
 
