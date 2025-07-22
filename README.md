@@ -64,7 +64,7 @@ This project implements a Mixture of Experts (MoE) architecture that dynamically
 If you use this code or findings in academic work, please cite:
 
 ```bibtex
-@unpublished{vallarino2024adaptive,
+@unpublished{vallarino2025adaptive,
   author = {Vallarino, Diego},
   title = {Adaptive Market Intelligence: A Mixture of Experts Framework for Volatility-Sensitive Stock Forecasting},
   note = {SSRN Preprint},
