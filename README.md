@@ -68,7 +68,7 @@ pip install -r requirements.txt
 
 ---
 
-## **Citation**
+## Citation
 
 If you use this code or findings in academic work, please cite:
 
