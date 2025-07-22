@@ -59,25 +59,10 @@ This project implements a Mixture of Experts (MoE) architecture that dynamically
 
 ---
 
-## 📦 Dependencies
+## Dependencies
 
 Install required packages with:
 
 ```bash
 pip install -r requirements.txt
-
----
-
-## Citation
-
-If you use this code or findings in academic work, please cite:
-
-```bibtex
-@unpublished{vallarino2024adaptive,
-  author = {Vallarino, Diego},
-  title = {Adaptive Market Intelligence: A Mixture of Experts Framework for Volatility-Sensitive Stock Forecasting},
-  note = {SSRN Preprint},
-  year = {2024},
-  url = {https://github.com/DiegoVallarino/MoE-stock-forecasting}
-}
 
