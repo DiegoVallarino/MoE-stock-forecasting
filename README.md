@@ -59,16 +59,6 @@ This project implements a Mixture of Experts (MoE) architecture that dynamically
 
 ---
 
-## Dependencies
-
-Install required packages with:
-
-```bash
-pip install -r requirements.txt
-
-
----
-
 ## Citation
 
 If you use this code or findings in academic work, please cite:
