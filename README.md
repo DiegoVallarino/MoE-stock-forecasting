@@ -3,7 +3,7 @@
 This repository contains the full source code, data preprocessing scripts, and evaluation routines for the paper:
 
 **"Adaptive Market Intelligence: A Mixture of Experts Framework for Volatility-Sensitive Stock Forecasting"**  
-by Diego Vallarino (2024)  
+by Diego Vallarino (2025)  
 [SSRN Preprint - Coming Soon]
 
 ---
